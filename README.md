@@ -1,1 +1,1 @@
-# Shipping-Decarbonisation-Strategy-Hydrogen-Powered-Vessels
+This project is focused on understanding the technology being used for producing green hydrogen (which is more sustainable), and burning Hydrogen in marine ICE. understanding the intricacies, environmental and economic impacts of using Hydrogen as a fuel for marine ICE. One of the main goals of this project is to design a fully operational system that will use liquid hydrogen as the primary fuel engine to safely operate the bulk carrier vessel's engines.
